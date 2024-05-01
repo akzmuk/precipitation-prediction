@@ -1,2 +1,2 @@
 # precipitation-prediction
-Prediction rainfall probability based on parameters such as temperature, humidity, and average cloud cover etc.
+The objective of this project is to build a predictive model capable of estimating the likelihood of precipitation by utilizing various input factors, including temperature, relative humidity levels, and average cloud cover %.
